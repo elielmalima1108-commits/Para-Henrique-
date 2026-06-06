@@ -1,5 +1,7 @@
 # Para-Henrique-
-
+<img src="fotos/foto1.jpg">
+<img src="fotos/foto2.jpg">
+<img src="fotos/foto3.jpg">
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
